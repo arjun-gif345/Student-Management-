@@ -3,6 +3,7 @@ Student Management System
 1. Project Overview
    
 The Student Management System is a web-based application developed using Spring Boot, Spring Security, JWT authentication, and MySQL. It allows users to securely register and log in, while providing authenticated access to student records. The system supports adding, viewing, updating, and deleting student information.
+
 3. Objectives
 
 - Develop REST APIs using Spring Boot.
